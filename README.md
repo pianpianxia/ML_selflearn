@@ -15,4 +15,4 @@ As stated in the title, I create this repository for the purpose of studying mat
 
 ## Credits
 
-- [machine learning in action](https://github.com/pbharrin/machinelearninginaction)
+- [machine learning in action](https://github.com/pbharrin/machinelearninginaction) - the code repository of the book.
