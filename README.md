@@ -15,4 +15,5 @@ As stated in the title, I create this repository for the purpose of studying mat
 
 ## Credits
 
+- Peter Harrington, who is the author of the book I am using.
 - [machine learning in action](https://github.com/pbharrin/machinelearninginaction) - the code repository of the book.
